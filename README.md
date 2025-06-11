@@ -19,8 +19,7 @@
 
 1. 安裝 Tesseract OCR：
    - 從 [Tesseract 官網](https://github.com/UB-Mannheim/tesseract/wiki) 下載並安裝
-   - 安裝時請選擇繁體中文語言包
-
+   
 2. 安裝 Python 套件：
 ```bash
 pip install -r requirements.txt
